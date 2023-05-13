@@ -1,0 +1,47 @@
+* {
+  font-family: 'Unna', serif;
+}
+
+* body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: auto;
+  width: 100px;
+  display: 100px block;
+}
+
+* img {
+  margin-top: 5%;
+  margin-bottom: 10px;
+  height: 50%;
+  width: auto;
+  border-radius: 40px;
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+}
+
+.pagination {
+  justify-content: center;
+  margin-top: 20px;
+  display: flex;
+  padding: 12px 12px 12px;
+}
+
+.item p {
+  margin: 5px 0;
+  width: 670px;
+}
